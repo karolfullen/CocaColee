@@ -1,0 +1,33 @@
+* {
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Amazonas, sans-serif;
+}
+
+#encabezado {
+  background-color: #FF6666;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  height: auto;
+}
+
+.navbar {
+        margin: 0 px;
+        padding: 0 px;
+        text-align: left;
+        font-size: 18px;
+        list-style-type:none;
+        height: auto;
+        background-color: #FF9999;
+        }
+
+#columna_principal {
+  float: left;
+  background-color: #CC3333;
+}
+
+
